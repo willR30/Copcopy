@@ -23,3 +23,4 @@
 </h3>
 
 <h2>Graphical user interface</h2>
+<img src="https://github.com/willR30/Copcopy/blob/main/Screenshot%20from%202023-09-29%2014-05-16.png">
